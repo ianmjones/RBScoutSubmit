@@ -27,11 +27,9 @@ It is *STRONGLY* recommended that you try the RBScoutSubmitExample project with 
 Remember, none of this is going to work unless you have a publicly available FogBugz scoutSubmit.asp or scoutSubmit.php page.
 
 
-*** Feedback/Bug Reports/Source Updates ***
+*** Feedback/Bug Reports ***
 
-Project website: http://code.google.com/p/rbscoutsubmit/
-
-Discussion Group: http://groups.google.com/group/rbscoutsubmit
+mailto:support@imij.co.uk
 
 
 *** Version History ***

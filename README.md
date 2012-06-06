@@ -1,16 +1,9 @@
-RBScoutSubmit v1.2
+# RBScoutSubmit #
 
 RBScoutSubmit is a small set of REALbasic classes that can be used to submit crash data from your REALbasic application to your FogBugz installation.
 
 
-*** License ***
-
-Please see RBScoutSubmit License.txt for the license for the main RBScoutSubmit classes and example code. Summary: It's a standard MIT license, do what you like with the code.
-
-For the StackCleaner classes, please see the readme.txt file in the StackCleaner folder.
-
-
-*** How To Use ***
+## How To Use ##
 
 1) Copy the RBScoutSubmit folder and it's contents into your REALbasic project.
 
@@ -27,12 +20,23 @@ It is *STRONGLY* recommended that you try the RBScoutSubmitExample project with 
 Remember, none of this is going to work unless you have a publicly available FogBugz scoutSubmit.asp or scoutSubmit.php page.
 
 
-*** Feedback/Bug Reports ***
+## Author ##
 
-mailto:support@imij.co.uk
+Ian M. Jones  
+http://www.ianmjones.com  
+mailto:ian@ianmjones.com  
 
 
-*** Version History ***
+## License ##
+
+Please see RBScoutSubmit License.txt for the license for the main RBScoutSubmit classes and example code.
+
+Summary: It's a standard MIT license, do what you like with the code.
+
+For the StackCleaner classes, please see the readme.txt file in the StackCleaner folder.
+
+
+## Version History ##
 
 1.2 2012-05-25
 

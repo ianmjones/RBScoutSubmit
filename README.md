@@ -20,6 +20,13 @@ It is *STRONGLY* recommended that you try the RBScoutSubmitExample project with 
 Remember, none of this is going to work unless you have a publicly available FogBugz scoutSubmit.asp or scoutSubmit.php page.
 
 
+## How To Get ##
+
+[Download, clone or fork from GitHub](https://github.com/ianmjones/RBScoutSubmit)
+
+	git clone https://github.com/ianmjones/RBScoutSubmit.git
+
+
 ## Author ##
 
 Ian M. Jones  
